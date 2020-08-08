@@ -1,5 +1,5 @@
 # openvpn
-This script can be run from console with keys 
+This script can be run from console with keys: 
 
 -s servername
 
